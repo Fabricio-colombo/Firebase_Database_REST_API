@@ -1,7 +1,5 @@
 # Firebase_Database_REST_API
 
-# Firebase Realtime Database API
-
 The Firebase Realtime Database is a powerful real-time NoSQL database solution offered by Google as part of the Firebase suite of services. It enables developers to create highly interactive web and mobile applications that can share and synchronize data in real-time among users. This API provides programmatic access to the Firebase Realtime Database, allowing developers to seamlessly integrate their applications with this cloud database.
 
 ## Key Features
